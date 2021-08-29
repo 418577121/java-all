@@ -24,6 +24,4 @@ public class MyTest {
     // boolean
     boolean booleanTrue = true;
     boolean isBooleanFalse = false;
-
-
 }
